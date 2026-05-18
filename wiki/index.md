@@ -23,3 +23,5 @@ Building and managing software with AI coding agents.
 | Article | Summary | Updated |
 |---------|---------|---------|
 | [Harness Engineering: Building Software with AI Agents](ai-engineering/harness-engineering.md) | OpenAI built a ~1M LOC product with zero manual code using Codex agents; key lessons on context management, agent legibility, enforced architecture, and garbage collection for agent-generated codebases. | 2026-05-14 |
+| [Thariq: the Unreasonable Effectiveness of HTML (Claude Code)](ai-engineering/thariq-html-effectiveness.md) | Thariq, Anthropic Claude Code team (May 2026): ask Claude for HTML, not Markdown — once docs are read & fed to later sessions rather than hand-edited, Markdown's editing advantage vanishes while its expressiveness limit remains; HTML is Anthropic's internal default. | 2026-05-18 |
+| [Karpathy: ask LLMs for HTML & human–AI I/O modalities](ai-engineering/karpathy-ask-for-html.md) | Karpathy (May 2026): practical tip to ask LLMs to "structure your response as HTML"; argues audio = preferred human→AI input, vision = preferred AI→human output; output ladder text → markdown → HTML → interactive neural video. | 2026-05-18 |

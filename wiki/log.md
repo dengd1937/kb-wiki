@@ -1,5 +1,9 @@
 # Wiki Log
 
+## [2026-05-18] ingest | Thariq: the Unreasonable Effectiveness of HTML (Claude Code)
+
+## [2026-05-18] ingest | Karpathy: ask LLMs for HTML & human–AI I/O modalities
+
 ## [2026-05-18] ingest | Tree of Thoughts: Deliberate Problem Solving with LLMs
 
 ## [2026-05-18] ingest | LLM+P: Empowering LLMs with Optimal Planning Proficiency
