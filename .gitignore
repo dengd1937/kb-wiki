@@ -1,0 +1,5 @@
+# Obsidian 本地应用配置
+.obsidian/
+
+# 系统文件
+.DS_Store
