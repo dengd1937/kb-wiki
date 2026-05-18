@@ -1,5 +1,15 @@
 # Wiki Log
 
+## [2026-05-18] ingest | Tree of Thoughts: Deliberate Problem Solving with LLMs
+
+## [2026-05-18] ingest | LLM+P: Empowering LLMs with Optimal Planning Proficiency
+
+## [2026-05-18] ingest | Chain of Hindsight Aligns Language Models with Feedback
+
+## [2026-05-18] ingest | In-context Reinforcement Learning with Algorithm Distillation
+
+## [2026-05-18] ingest | Chain-of-Thought Prompting Elicits Reasoning in LLMs
+
 ## [2026-05-18] ingest | LLM Powered Autonomous Agents (Lilian Weng)
 
 ## [2026-05-18] ingest | Reflexion: Language Agents with Verbal Reinforcement Learning
