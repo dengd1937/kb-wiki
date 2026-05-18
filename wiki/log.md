@@ -1,3 +1,11 @@
 # Wiki Log
 
+## [2026-05-18] ingest | LLM Powered Autonomous Agents (Lilian Weng)
+
+## [2026-05-18] ingest | Reflexion: Language Agents with Verbal Reinforcement Learning
+
+## [2026-05-18] ingest | Toolformer: Language Models Can Teach Themselves to Use Tools
+
+## [2026-05-18] ingest | ReAct: Synergizing Reasoning and Acting in Language Models
+
 ## [2026-05-14] ingest | Harness Engineering: Building Software with AI Agents
