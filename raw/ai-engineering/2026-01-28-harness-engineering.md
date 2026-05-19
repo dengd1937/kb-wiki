@@ -1,8 +1,9 @@
 # Harness Engineering：构建一款没有一行人工编写代码的产品
 
-> Source: https://openai.com/index/harness-engineering/ (English); https://openai.com/zh-Hans-CN/index/harness-engineering/ (中文)
+> Source: https://openai.com/index/harness-engineering/ (English)
 > Collected: 2026-05-14
-> Published: Unknown
+> Published: 2026-01-28
+> Full text: https://openai.com/zh-Hans-CN/index/harness-engineering/ （OpenAI 官方中文页）
 
 在过去五个月里，我们的团队一直在进行一项实验：构建并交付一款软件产品的内部 beta 版，**其中没有一行代码是人工编写的**。
 
