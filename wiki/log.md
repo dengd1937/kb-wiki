@@ -1,5 +1,21 @@
 # Wiki Log
 
+## [2026-05-19] ingest | Building Effective Agents (Anthropic)
+
+## [2026-05-19] ingest | A2A: Agent2Agent Protocol
+
+## [2026-05-19] ingest | MCP: Model Context Protocol
+
+## [2026-05-19] ingest | SWE-agent: Agent-Computer Interfaces
+
+## [2026-05-19] ingest | SWE-bench: Can LMs Resolve Real-World GitHub Issues?
+
+## [2026-05-19] ingest | 2024–25 Capability Leap: Computer Use / Coding Agent (overview)
+
+## [2026-05-19] ingest | AutoGen: Multi-Agent Conversation
+
+## [2026-05-19] ingest | 2023–24 Agent Framework Wave (overview)
+
 ## [2026-05-19] ingest | OpenAI Function Calling (API update)
 
 ## [2026-05-18] ingest | Thariq: the Unreasonable Effectiveness of HTML (Claude Code)

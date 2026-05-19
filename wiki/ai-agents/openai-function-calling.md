@@ -31,4 +31,5 @@
 - [ReAct](react-reasoning-acting.md) — 工具调用的提示时前身。
 - [Toolformer](toolformer.md) — 工具能力进权重的思想，被本节点产品化。
 - [LLM Powered Autonomous Agents](llm-powered-autonomous-agents.md) — 其 Tool use 组件的工程落地。
+- [2023–24 Agent 框架浪潮](../ai-engineering/agent-framework-wave.md) — 本节点之后工程化线的第一阶段。
 - [Harness Engineering](../ai-engineering/harness-engineering.md) — 以可靠工具调用为前提的下游工程范式。

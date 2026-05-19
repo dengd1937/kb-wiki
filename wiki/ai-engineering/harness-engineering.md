@@ -93,3 +93,13 @@ Types → Config → Repo → Service → Runtime → UI
 - 随着模型能力不断增强，这一系统将如何演变？
 
 软件工程的纪律现在更多地体现在脚手架上，而非代码上 — 保持代码库一致性的工具、抽象和反馈回路变得越来越重要。
+
+## 相关条目
+
+本条目是「工程化线」的终点，其上游脉络：
+
+- [OpenAI Function Calling](../ai-agents/openai-function-calling.md) — 工具调用可靠化的铰链。
+- [2023–24 Agent 框架浪潮](agent-framework-wave.md) — 如何编排（AutoGPT…AutoGen…LangGraph）。
+- [2024–25 能力跃迁](capability-leap.md) — Coding Agent / Computer Use 能力质变。
+- [MCP](model-context-protocol.md) / [A2A](a2a-protocol.md) — 接入与互操作的协议标准化。
+- [Building Effective Agents](building-effective-agents.md) — 回归克制的设计模式收敛，直接通往本范式。
