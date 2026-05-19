@@ -57,6 +57,7 @@ Planning → Self-Reflection：
 
 Tool use：
 - [Toolformer: Language Models Can Teach Themselves to Use Tools](toolformer.md) — Tool use 的训练时路线。
+- [OpenAI Function Calling](openai-function-calling.md) — Tool use 的工程落地（原生结构化调用）。
 
 延伸：
 - [Harness Engineering: Building Software with AI Agents](../ai-engineering/harness-engineering.md) — 该框架在工程化阶段的当代延伸。
